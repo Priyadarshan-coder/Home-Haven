@@ -32,7 +32,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyadarshan-coder/Mern-estate.git
+  git clone https://github.com/Priyadarshan-coder/Home-Haven.git
 ```
 Install all dependenies:
 ```bash
