@@ -23,8 +23,11 @@ To run this project, you will need to add the following environment variables to
 ## Features
 
 - User sign in and sign up
+- Create listing
+- Delete listing
 - Like
 - Send email
+- Pagination
 
 
 ## Run Locally
