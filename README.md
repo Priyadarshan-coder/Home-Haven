@@ -2,7 +2,13 @@
 # Mern-Estate
 
 It is a web app specially designed to bring buyers and sellers at one market place which makes dealing with real estates simple and convenient.Here buyers can contact with owners of property listings and sellers can post their property details here.
-The backend is written in nodejs and client side is written in reactjs with mongodb as the database also firebase is used for storing images.
+The backend is written in nodejs and client side is written in reactjs with mongodb as the database also firebase is used as object store for storing images.
+
+
+
+https://github.com/user-attachments/assets/796ea557-5e59-40b0-8257-9a8df767ce47
+
+
 
 ## Authors
 
